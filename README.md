@@ -9,6 +9,11 @@ Hotspots:
 5) OffsetSunrise : In DINT - minutes. If you want the night to end faster, set negative value, else - positive
 6) xNight : BOOL - if is night
 7) xDay : BOOL - if is day
-
+## FB Timecheck
+This FB retruns true if the daytime TD is between start and stop and returns true if so. It is rework of FB Timecheck in OSCAT BASIC Library
+## FB SunsetSunrise
+Calculates time of sunrise and sunset
+## Time_f
+This FB calculates Day Of Year, which is important for sunset and sunrise calculations. It shows also time and date from PLCs RTC.
 
 
