@@ -1,0 +1,2079 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MCXBlocksProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <BuildVer>0</BuildVer>
+    <EditorVer>413</EditorVer>
+    <EnableApplicationOverride>false</EnableApplicationOverride>
+    <UserName>RSK-Resource</UserName>
+    <ShowPhysicalIO>false</ShowPhysicalIO>
+    <Views>
+        <GraphicItem DebugStr="Astronomical">
+            <Name>Astronomical</Name>
+            <width>3508</width>
+            <height>2480</height>
+            <x>0</x>
+            <y>0</y>
+            <Rotation>0</Rotation>
+            <ResizeMode>0</ResizeMode>
+            <ItemType />
+            <LineThickness>0</LineThickness>
+            <fill_color>0</fill_color>
+            <border_color>0</border_color>
+            <FontSize>8</FontSize>
+            <FontBold>false</FontBold>
+            <TextAlignment>0</TextAlignment>
+            <SubGraphic>
+                <GraphicItem xsi:type="GraphicItem_Component" DebugStr="Time_f">
+                    <Name>Time_f</Name>
+                    <width>95</width>
+                    <height>136</height>
+                    <x>152</x>
+                    <y>304</y>
+                    <Rotation>0</Rotation>
+                    <ResizeMode>0</ResizeMode>
+                    <ItemType>Brick</ItemType>
+                    <LineThickness>1</LineThickness>
+                    <fill_color>-1</fill_color>
+                    <border_color>0</border_color>
+                    <BackgroundImage />
+                    <FontSize>0</FontSize>
+                    <FontBold>false</FontBold>
+                    <TextAlignment>0</TextAlignment>
+                    <SubGraphic>
+                        <GraphicItem DebugStr="Rect_1">
+                            <Name>Rect_1</Name>
+                            <width>93</width>
+                            <height>134</height>
+                            <x>1</x>
+                            <y>1</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Rectangle</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-2302756</fill_color>
+                            <border_color>-2302756</border_color>
+                            <FontName>Verdana</FontName>
+                            <FontSize>10</FontSize>
+                            <FontBold>true</FontBold>
+                            <TextAlignment>5</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Rect_2">
+                            <Name>Rect_2</Name>
+                            <width>87</width>
+                            <height>128</height>
+                            <x>4</x>
+                            <y>4</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Rectangle</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-1</fill_color>
+                            <border_color>-8355712</border_color>
+                            <FontName>Verdana</FontName>
+                            <FontSize>10</FontSize>
+                            <FontBold>true</FontBold>
+                            <TextAlignment>5</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Rect_3">
+                            <Name>Rect_3</Name>
+                            <width>85</width>
+                            <height>126</height>
+                            <x>5</x>
+                            <y>5</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Rectangle</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-1</fill_color>
+                            <border_color>-5658199</border_color>
+                            <FontName>Verdana</FontName>
+                            <FontSize>10</FontSize>
+                            <FontBold>true</FontBold>
+                            <TextAlignment>5</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Rect_4">
+                            <Name>Rect_4</Name>
+                            <width>83</width>
+                            <height>2</height>
+                            <x>6</x>
+                            <y>28</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Rectangle</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-1</fill_color>
+                            <border_color>-5658199</border_color>
+                            <FontName>Verdana</FontName>
+                            <FontSize>10</FontSize>
+                            <FontBold>true</FontBold>
+                            <TextAlignment>5</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Rect_5">
+                            <Name>Rect_5</Name>
+                            <width>83</width>
+                            <height>2</height>
+                            <x>6</x>
+                            <y>29</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Rectangle</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-1</fill_color>
+                            <border_color>-8355712</border_color>
+                            <FontName>Verdana</FontName>
+                            <FontSize>10</FontSize>
+                            <FontBold>true</FontBold>
+                            <TextAlignment>5</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Rect_6">
+                            <Name>Rect_6</Name>
+                            <width>83</width>
+                            <height>2</height>
+                            <x>6</x>
+                            <y>30</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Rectangle</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-1</fill_color>
+                            <border_color>-2302756</border_color>
+                            <FontName>Verdana</FontName>
+                            <FontSize>10</FontSize>
+                            <FontBold>true</FontBold>
+                            <TextAlignment>5</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Text_AppName">
+                            <Name>Text_AppName</Name>
+                            <width>55</width>
+                            <height>20</height>
+                            <x>5</x>
+                            <y>8</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Text</ItemType>
+                            <LineThickness>0</LineThickness>
+                            <fill_color>-1</fill_color>
+                            <border_color>-16777216</border_color>
+                            <Text>Time f</Text>
+                            <FontName>Verdana</FontName>
+                            <FontSize>10</FontSize>
+                            <FontBold>true</FontBold>
+                            <TextAlignment>5</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Text_DayOfYear">
+                            <Name>Text_DayOfYear</Name>
+                            <width>71</width>
+                            <height>12</height>
+                            <x>12</x>
+                            <y>36</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>1</ResizeMode>
+                            <ItemType>Text</ItemType>
+                            <LineThickness>0</LineThickness>
+                            <fill_color>0</fill_color>
+                            <border_color>-16777216</border_color>
+                            <Text>DayOfYear</Text>
+                            <FontName>Verdana</FontName>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>6</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Image_DayOfYear">
+                            <Name>Image_DayOfYear</Name>
+                            <width>11</width>
+                            <height>11</height>
+                            <x>84</x>
+                            <y>37</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Image</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <BackgroundImage>$(SysPath)\Images\imgGraphHS.png</BackgroundImage>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                        </GraphicItem>
+                        <GraphicItem xsi:type="Hotspot" DebugStr="DayOfYear">
+                            <Name>DayOfYear</Name>
+                            <width>10</width>
+                            <height>10</height>
+                            <x>84</x>
+                            <y>37</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Hotspot</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <FontSize>0</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                            <DataType>INT</DataType>
+                            <Optional>false</Optional>
+                            <Visible>true</Visible>
+                            <Input>false</Input>
+                            <Output>true</Output>
+                            <Instance>false</Instance>
+                            <MinVal>0</MinVal>
+                            <MaxVal>0</MaxVal>
+                            <Decimals>0</Decimals>
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Text_Year">
+                            <Name>Text_Year</Name>
+                            <width>71</width>
+                            <height>12</height>
+                            <x>12</x>
+                            <y>52</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>1</ResizeMode>
+                            <ItemType>Text</ItemType>
+                            <LineThickness>0</LineThickness>
+                            <fill_color>0</fill_color>
+                            <border_color>-16777216</border_color>
+                            <Text>Year</Text>
+                            <FontName>Verdana</FontName>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>6</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Image_Year">
+                            <Name>Image_Year</Name>
+                            <width>11</width>
+                            <height>11</height>
+                            <x>84</x>
+                            <y>53</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Image</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <BackgroundImage>$(SysPath)\Images\imgGraphHS.png</BackgroundImage>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                        </GraphicItem>
+                        <GraphicItem xsi:type="Hotspot" DebugStr="Year">
+                            <Name>Year</Name>
+                            <width>10</width>
+                            <height>10</height>
+                            <x>84</x>
+                            <y>53</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Hotspot</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <FontSize>0</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                            <DataType>INT</DataType>
+                            <Optional>false</Optional>
+                            <Visible>true</Visible>
+                            <Input>false</Input>
+                            <Output>true</Output>
+                            <Instance>false</Instance>
+                            <MinVal>0</MinVal>
+                            <MaxVal>0</MaxVal>
+                            <Decimals>0</Decimals>
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Text_Month">
+                            <Name>Text_Month</Name>
+                            <width>71</width>
+                            <height>12</height>
+                            <x>12</x>
+                            <y>68</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>1</ResizeMode>
+                            <ItemType>Text</ItemType>
+                            <LineThickness>0</LineThickness>
+                            <fill_color>0</fill_color>
+                            <border_color>-16777216</border_color>
+                            <Text>Month</Text>
+                            <FontName>Verdana</FontName>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>6</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Image_Month">
+                            <Name>Image_Month</Name>
+                            <width>11</width>
+                            <height>11</height>
+                            <x>84</x>
+                            <y>69</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Image</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <BackgroundImage>$(SysPath)\Images\imgGraphHS.png</BackgroundImage>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                        </GraphicItem>
+                        <GraphicItem xsi:type="Hotspot" DebugStr="Month">
+                            <Name>Month</Name>
+                            <width>10</width>
+                            <height>10</height>
+                            <x>84</x>
+                            <y>69</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Hotspot</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <FontSize>0</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                            <DataType>INT</DataType>
+                            <Optional>false</Optional>
+                            <Visible>true</Visible>
+                            <Input>false</Input>
+                            <Output>true</Output>
+                            <Instance>false</Instance>
+                            <MinVal>0</MinVal>
+                            <MaxVal>0</MaxVal>
+                            <Decimals>0</Decimals>
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Text_Day">
+                            <Name>Text_Day</Name>
+                            <width>71</width>
+                            <height>12</height>
+                            <x>12</x>
+                            <y>84</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>1</ResizeMode>
+                            <ItemType>Text</ItemType>
+                            <LineThickness>0</LineThickness>
+                            <fill_color>0</fill_color>
+                            <border_color>-16777216</border_color>
+                            <Text>Day</Text>
+                            <FontName>Verdana</FontName>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>6</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Image_Day">
+                            <Name>Image_Day</Name>
+                            <width>11</width>
+                            <height>11</height>
+                            <x>84</x>
+                            <y>85</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Image</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <BackgroundImage>$(SysPath)\Images\imgGraphHS.png</BackgroundImage>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                        </GraphicItem>
+                        <GraphicItem xsi:type="Hotspot" DebugStr="Day">
+                            <Name>Day</Name>
+                            <width>10</width>
+                            <height>10</height>
+                            <x>84</x>
+                            <y>85</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Hotspot</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <FontSize>0</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                            <DataType>INT</DataType>
+                            <Optional>false</Optional>
+                            <Visible>true</Visible>
+                            <Input>false</Input>
+                            <Output>true</Output>
+                            <Instance>false</Instance>
+                            <MinVal>0</MinVal>
+                            <MaxVal>0</MaxVal>
+                            <Decimals>0</Decimals>
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Text_Hour">
+                            <Name>Text_Hour</Name>
+                            <width>71</width>
+                            <height>12</height>
+                            <x>12</x>
+                            <y>100</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>1</ResizeMode>
+                            <ItemType>Text</ItemType>
+                            <LineThickness>0</LineThickness>
+                            <fill_color>0</fill_color>
+                            <border_color>-16777216</border_color>
+                            <Text>Hour</Text>
+                            <FontName>Verdana</FontName>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>6</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Image_Hour">
+                            <Name>Image_Hour</Name>
+                            <width>11</width>
+                            <height>11</height>
+                            <x>84</x>
+                            <y>101</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Image</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <BackgroundImage>$(SysPath)\Images\imgGraphHS.png</BackgroundImage>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                        </GraphicItem>
+                        <GraphicItem xsi:type="Hotspot" DebugStr="Hour">
+                            <Name>Hour</Name>
+                            <width>10</width>
+                            <height>10</height>
+                            <x>84</x>
+                            <y>101</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Hotspot</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <FontSize>0</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                            <DataType>INT</DataType>
+                            <Optional>false</Optional>
+                            <Visible>true</Visible>
+                            <Input>false</Input>
+                            <Output>true</Output>
+                            <Instance>false</Instance>
+                            <MinVal>0</MinVal>
+                            <MaxVal>0</MaxVal>
+                            <Decimals>0</Decimals>
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Text_Min">
+                            <Name>Text_Min</Name>
+                            <width>71</width>
+                            <height>12</height>
+                            <x>12</x>
+                            <y>116</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>1</ResizeMode>
+                            <ItemType>Text</ItemType>
+                            <LineThickness>0</LineThickness>
+                            <fill_color>0</fill_color>
+                            <border_color>-16777216</border_color>
+                            <Text>Min</Text>
+                            <FontName>Verdana</FontName>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>6</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Image_Min">
+                            <Name>Image_Min</Name>
+                            <width>11</width>
+                            <height>11</height>
+                            <x>84</x>
+                            <y>117</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Image</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <BackgroundImage>$(SysPath)\Images\imgGraphHS.png</BackgroundImage>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                        </GraphicItem>
+                        <GraphicItem xsi:type="Hotspot" DebugStr="Min">
+                            <Name>Min</Name>
+                            <width>10</width>
+                            <height>10</height>
+                            <x>84</x>
+                            <y>117</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Hotspot</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <FontSize>0</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                            <DataType>INT</DataType>
+                            <Optional>false</Optional>
+                            <Visible>true</Visible>
+                            <Input>false</Input>
+                            <Output>true</Output>
+                            <Instance>false</Instance>
+                            <MinVal>0</MinVal>
+                            <MaxVal>0</MaxVal>
+                            <Decimals>0</Decimals>
+                        </GraphicItem>
+                    </SubGraphic>
+                    <HotspotsInstance />
+                    <InnerLogic DebugStr="Time_f">
+                        <Name>Time_f</Name>
+                        <width>1000</width>
+                        <height>1000</height>
+                        <x>0</x>
+                        <y>0</y>
+                        <Rotation>0</Rotation>
+                        <ResizeMode>0</ResizeMode>
+                        <ItemType />
+                        <LineThickness>0</LineThickness>
+                        <fill_color>-1</fill_color>
+                        <border_color>-16777216</border_color>
+                        <FontSize>8</FontSize>
+                        <FontBold>false</FontBold>
+                        <TextAlignment>0</TextAlignment>
+                        <SubGraphic>
+                            <GraphicItem xsi:type="Hotspot" DebugStr="Day">
+                                <Name>Day</Name>
+                                <width>10</width>
+                                <height>10</height>
+                                <x>96</x>
+                                <y>216</y>
+                                <Rotation>0</Rotation>
+                                <ResizeMode>0</ResizeMode>
+                                <ItemType>Hotspot</ItemType>
+                                <LineThickness>1</LineThickness>
+                                <fill_color>-65536</fill_color>
+                                <border_color>-16777216</border_color>
+                                <FontSize>0</FontSize>
+                                <FontBold>false</FontBold>
+                                <TextAlignment>0</TextAlignment>
+                                <SubGraphic />
+                                <HotspotsInstance />
+                                <DataType>INT</DataType>
+                                <Optional>false</Optional>
+                                <Visible>true</Visible>
+                                <Input>false</Input>
+                                <Output>true</Output>
+                                <Instance>false</Instance>
+                                <MinVal>0</MinVal>
+                                <MaxVal>0</MaxVal>
+                                <Decimals>0</Decimals>
+                            </GraphicItem>
+                            <GraphicItem xsi:type="Hotspot" DebugStr="Month">
+                                <Name>Month</Name>
+                                <width>10</width>
+                                <height>10</height>
+                                <x>96</x>
+                                <y>184</y>
+                                <Rotation>0</Rotation>
+                                <ResizeMode>0</ResizeMode>
+                                <ItemType>Hotspot</ItemType>
+                                <LineThickness>1</LineThickness>
+                                <fill_color>-65536</fill_color>
+                                <border_color>-16777216</border_color>
+                                <FontSize>0</FontSize>
+                                <FontBold>false</FontBold>
+                                <TextAlignment>0</TextAlignment>
+                                <SubGraphic />
+                                <HotspotsInstance />
+                                <DataType>INT</DataType>
+                                <Optional>false</Optional>
+                                <Visible>true</Visible>
+                                <Input>false</Input>
+                                <Output>true</Output>
+                                <Instance>false</Instance>
+                                <MinVal>0</MinVal>
+                                <MaxVal>0</MaxVal>
+                                <Decimals>0</Decimals>
+                            </GraphicItem>
+                            <GraphicItem xsi:type="Hotspot" DebugStr="Hour">
+                                <Name>Hour</Name>
+                                <width>10</width>
+                                <height>10</height>
+                                <x>96</x>
+                                <y>248</y>
+                                <Rotation>0</Rotation>
+                                <ResizeMode>0</ResizeMode>
+                                <ItemType>Hotspot</ItemType>
+                                <LineThickness>1</LineThickness>
+                                <fill_color>-65536</fill_color>
+                                <border_color>-16777216</border_color>
+                                <FontSize>0</FontSize>
+                                <FontBold>false</FontBold>
+                                <TextAlignment>0</TextAlignment>
+                                <SubGraphic />
+                                <HotspotsInstance />
+                                <DataType>INT</DataType>
+                                <Optional>false</Optional>
+                                <Visible>true</Visible>
+                                <Input>false</Input>
+                                <Output>true</Output>
+                                <Instance>false</Instance>
+                                <MinVal>0</MinVal>
+                                <MaxVal>0</MaxVal>
+                                <Decimals>0</Decimals>
+                            </GraphicItem>
+                            <GraphicItem xsi:type="Hotspot" DebugStr="Min">
+                                <Name>Min</Name>
+                                <width>10</width>
+                                <height>10</height>
+                                <x>96</x>
+                                <y>280</y>
+                                <Rotation>0</Rotation>
+                                <ResizeMode>0</ResizeMode>
+                                <ItemType>Hotspot</ItemType>
+                                <LineThickness>1</LineThickness>
+                                <fill_color>-65536</fill_color>
+                                <border_color>-16777216</border_color>
+                                <FontSize>0</FontSize>
+                                <FontBold>false</FontBold>
+                                <TextAlignment>0</TextAlignment>
+                                <SubGraphic />
+                                <HotspotsInstance />
+                                <DataType>INT</DataType>
+                                <Optional>false</Optional>
+                                <Visible>true</Visible>
+                                <Input>false</Input>
+                                <Output>true</Output>
+                                <Instance>false</Instance>
+                                <MinVal>0</MinVal>
+                                <MaxVal>0</MaxVal>
+                                <Decimals>0</Decimals>
+                            </GraphicItem>
+                            <GraphicItem xsi:type="Hotspot" DebugStr="Year">
+                                <Name>Year</Name>
+                                <width>10</width>
+                                <height>10</height>
+                                <x>96</x>
+                                <y>152</y>
+                                <Rotation>0</Rotation>
+                                <ResizeMode>0</ResizeMode>
+                                <ItemType>Hotspot</ItemType>
+                                <LineThickness>1</LineThickness>
+                                <fill_color>-65536</fill_color>
+                                <border_color>-16777216</border_color>
+                                <FontSize>0</FontSize>
+                                <FontBold>false</FontBold>
+                                <TextAlignment>0</TextAlignment>
+                                <SubGraphic />
+                                <HotspotsInstance />
+                                <DataType>INT</DataType>
+                                <Optional>false</Optional>
+                                <Visible>true</Visible>
+                                <Input>false</Input>
+                                <Output>true</Output>
+                                <Instance>false</Instance>
+                                <MinVal>0</MinVal>
+                                <MaxVal>0</MaxVal>
+                                <Decimals>0</Decimals>
+                            </GraphicItem>
+                            <GraphicItem xsi:type="Hotspot" DebugStr="DayOfYear">
+                                <Name>DayOfYear</Name>
+                                <width>10</width>
+                                <height>10</height>
+                                <x>96</x>
+                                <y>120</y>
+                                <Rotation>0</Rotation>
+                                <ResizeMode>0</ResizeMode>
+                                <ItemType>Hotspot</ItemType>
+                                <LineThickness>1</LineThickness>
+                                <fill_color>-65536</fill_color>
+                                <border_color>-16777216</border_color>
+                                <FontSize>0</FontSize>
+                                <FontBold>false</FontBold>
+                                <TextAlignment>0</TextAlignment>
+                                <SubGraphic />
+                                <HotspotsInstance />
+                                <DataType>INT</DataType>
+                                <Optional>false</Optional>
+                                <Visible>true</Visible>
+                                <Input>false</Input>
+                                <Output>true</Output>
+                                <Instance>false</Instance>
+                                <MinVal>0</MinVal>
+                                <MaxVal>0</MaxVal>
+                                <Decimals>0</Decimals>
+                            </GraphicItem>
+                        </SubGraphic>
+                        <HotspotsInstance />
+                    </InnerLogic>
+                    <Appearance>1</Appearance>
+                    <AutoShapeImage />
+                    <MacroList />
+                </GraphicItem>
+                <GraphicItem xsi:type="GraphicItem_Component" DebugStr="SunsetSunrise">
+                    <Name>SunsetSunrise</Name>
+                    <width>178</width>
+                    <height>152</height>
+                    <x>400</x>
+                    <y>296</y>
+                    <Rotation>0</Rotation>
+                    <ResizeMode>0</ResizeMode>
+                    <ItemType>Brick</ItemType>
+                    <LineThickness>1</LineThickness>
+                    <fill_color>-1</fill_color>
+                    <border_color>0</border_color>
+                    <BackgroundImage />
+                    <FontSize>0</FontSize>
+                    <FontBold>false</FontBold>
+                    <TextAlignment>0</TextAlignment>
+                    <SubGraphic>
+                        <GraphicItem DebugStr="Rect_1">
+                            <Name>Rect_1</Name>
+                            <width>176</width>
+                            <height>150</height>
+                            <x>1</x>
+                            <y>1</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Rectangle</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-2302756</fill_color>
+                            <border_color>-2302756</border_color>
+                            <FontName>Verdana</FontName>
+                            <FontSize>10</FontSize>
+                            <FontBold>true</FontBold>
+                            <TextAlignment>5</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Rect_2">
+                            <Name>Rect_2</Name>
+                            <width>170</width>
+                            <height>144</height>
+                            <x>4</x>
+                            <y>4</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Rectangle</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-1</fill_color>
+                            <border_color>-8355712</border_color>
+                            <FontName>Verdana</FontName>
+                            <FontSize>10</FontSize>
+                            <FontBold>true</FontBold>
+                            <TextAlignment>5</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Rect_3">
+                            <Name>Rect_3</Name>
+                            <width>168</width>
+                            <height>142</height>
+                            <x>5</x>
+                            <y>5</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Rectangle</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-1</fill_color>
+                            <border_color>-5658199</border_color>
+                            <FontName>Verdana</FontName>
+                            <FontSize>10</FontSize>
+                            <FontBold>true</FontBold>
+                            <TextAlignment>5</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Rect_4">
+                            <Name>Rect_4</Name>
+                            <width>166</width>
+                            <height>2</height>
+                            <x>6</x>
+                            <y>28</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Rectangle</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-1</fill_color>
+                            <border_color>-5658199</border_color>
+                            <FontName>Verdana</FontName>
+                            <FontSize>10</FontSize>
+                            <FontBold>true</FontBold>
+                            <TextAlignment>5</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Rect_5">
+                            <Name>Rect_5</Name>
+                            <width>166</width>
+                            <height>2</height>
+                            <x>6</x>
+                            <y>29</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Rectangle</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-1</fill_color>
+                            <border_color>-8355712</border_color>
+                            <FontName>Verdana</FontName>
+                            <FontSize>10</FontSize>
+                            <FontBold>true</FontBold>
+                            <TextAlignment>5</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Rect_6">
+                            <Name>Rect_6</Name>
+                            <width>166</width>
+                            <height>2</height>
+                            <x>6</x>
+                            <y>30</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Rectangle</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-1</fill_color>
+                            <border_color>-2302756</border_color>
+                            <FontName>Verdana</FontName>
+                            <FontSize>10</FontSize>
+                            <FontBold>true</FontBold>
+                            <TextAlignment>5</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Text_AppName">
+                            <Name>Text_AppName</Name>
+                            <width>118</width>
+                            <height>20</height>
+                            <x>5</x>
+                            <y>8</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Text</ItemType>
+                            <LineThickness>0</LineThickness>
+                            <fill_color>-1</fill_color>
+                            <border_color>-16777216</border_color>
+                            <Text>SunsetSunrise</Text>
+                            <FontName>Verdana</FontName>
+                            <FontSize>10</FontSize>
+                            <FontBold>true</FontBold>
+                            <TextAlignment>5</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Text_Timezone">
+                            <Name>Text_Timezone</Name>
+                            <width>154</width>
+                            <height>12</height>
+                            <x>12</x>
+                            <y>52</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>1</ResizeMode>
+                            <ItemType>Text</ItemType>
+                            <LineThickness>0</LineThickness>
+                            <fill_color>0</fill_color>
+                            <border_color>-16777216</border_color>
+                            <Text>Timezone</Text>
+                            <FontName>Verdana</FontName>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Image_Timezone">
+                            <Name>Image_Timezone</Name>
+                            <width>11</width>
+                            <height>11</height>
+                            <x>0</x>
+                            <y>53</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Image</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <BackgroundImage>$(SysPath)\Images\imgGraphHS.png</BackgroundImage>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem xsi:type="Hotspot" DebugStr="Timezone">
+                            <Name>Timezone</Name>
+                            <width>10</width>
+                            <height>10</height>
+                            <x>0</x>
+                            <y>53</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Hotspot</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <FontSize>0</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                            <DataType>INT</DataType>
+                            <Optional>false</Optional>
+                            <Visible>true</Visible>
+                            <Input>true</Input>
+                            <Output>false</Output>
+                            <Instance>false</Instance>
+                            <MinVal>-11</MinVal>
+                            <MaxVal>14</MaxVal>
+                            <Unit>Hours</Unit>
+                            <Decimals>0</Decimals>
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Text_Test">
+                            <Name>Text_Test</Name>
+                            <width>154</width>
+                            <height>12</height>
+                            <x>12</x>
+                            <y>36</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>1</ResizeMode>
+                            <ItemType>Text</ItemType>
+                            <LineThickness>0</LineThickness>
+                            <fill_color>0</fill_color>
+                            <border_color>-16777216</border_color>
+                            <Text>Test</Text>
+                            <FontName>Verdana</FontName>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>6</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Image_Test">
+                            <Name>Image_Test</Name>
+                            <width>11</width>
+                            <height>11</height>
+                            <x>167</x>
+                            <y>37</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Image</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <BackgroundImage>$(SysPath)\Images\imgGraphHS.png</BackgroundImage>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem xsi:type="Hotspot" DebugStr="Test">
+                            <Name>Test</Name>
+                            <width>10</width>
+                            <height>10</height>
+                            <x>167</x>
+                            <y>37</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Hotspot</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <FontSize>0</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                            <DataType>DINT</DataType>
+                            <Optional>false</Optional>
+                            <Visible>true</Visible>
+                            <Input>false</Input>
+                            <Output>true</Output>
+                            <Instance>false</Instance>
+                            <MinVal>0</MinVal>
+                            <MaxVal>0</MaxVal>
+                            <Decimals>0</Decimals>
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Text_Latitude">
+                            <Name>Text_Latitude</Name>
+                            <width>154</width>
+                            <height>12</height>
+                            <x>12</x>
+                            <y>68</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>1</ResizeMode>
+                            <ItemType>Text</ItemType>
+                            <LineThickness>0</LineThickness>
+                            <fill_color>0</fill_color>
+                            <border_color>-16777216</border_color>
+                            <Text>Latitude</Text>
+                            <FontName>Verdana</FontName>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Image_Latitude">
+                            <Name>Image_Latitude</Name>
+                            <width>11</width>
+                            <height>11</height>
+                            <x>0</x>
+                            <y>69</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Image</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <BackgroundImage>$(SysPath)\Images\imgGraphHS.png</BackgroundImage>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem xsi:type="Hotspot" DebugStr="Latitude">
+                            <Name>Latitude</Name>
+                            <width>10</width>
+                            <height>10</height>
+                            <x>0</x>
+                            <y>69</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Hotspot</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <FontSize>0</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                            <DataType>DINT</DataType>
+                            <Optional>false</Optional>
+                            <Visible>true</Visible>
+                            <Input>true</Input>
+                            <Output>false</Output>
+                            <Instance>false</Instance>
+                            <MinVal>0</MinVal>
+                            <MaxVal>0</MaxVal>
+                            <Decimals>0</Decimals>
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Text_Longtitude">
+                            <Name>Text_Longtitude</Name>
+                            <width>154</width>
+                            <height>12</height>
+                            <x>12</x>
+                            <y>84</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>1</ResizeMode>
+                            <ItemType>Text</ItemType>
+                            <LineThickness>0</LineThickness>
+                            <fill_color>0</fill_color>
+                            <border_color>-16777216</border_color>
+                            <Text>Longtitude</Text>
+                            <FontName>Verdana</FontName>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Image_Longtitude">
+                            <Name>Image_Longtitude</Name>
+                            <width>11</width>
+                            <height>11</height>
+                            <x>0</x>
+                            <y>85</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Image</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <BackgroundImage>$(SysPath)\Images\imgGraphHS.png</BackgroundImage>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem xsi:type="Hotspot" DebugStr="Longtitude">
+                            <Name>Longtitude</Name>
+                            <width>10</width>
+                            <height>10</height>
+                            <x>0</x>
+                            <y>85</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Hotspot</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <FontSize>0</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                            <DataType>DINT</DataType>
+                            <Optional>false</Optional>
+                            <Visible>true</Visible>
+                            <Input>true</Input>
+                            <Output>false</Output>
+                            <Instance>false</Instance>
+                            <MinVal>0</MinVal>
+                            <MaxVal>0</MaxVal>
+                            <Decimals>0</Decimals>
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Text_DayOfYear">
+                            <Name>Text_DayOfYear</Name>
+                            <width>154</width>
+                            <height>12</height>
+                            <x>12</x>
+                            <y>100</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>1</ResizeMode>
+                            <ItemType>Text</ItemType>
+                            <LineThickness>0</LineThickness>
+                            <fill_color>0</fill_color>
+                            <border_color>-16777216</border_color>
+                            <Text>DayOfYear</Text>
+                            <FontName>Verdana</FontName>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Image_DayOfYear">
+                            <Name>Image_DayOfYear</Name>
+                            <width>11</width>
+                            <height>11</height>
+                            <x>0</x>
+                            <y>101</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Image</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <BackgroundImage>$(SysPath)\Images\imgGraphHS.png</BackgroundImage>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem xsi:type="Hotspot" DebugStr="DayOfYear">
+                            <Name>DayOfYear</Name>
+                            <width>10</width>
+                            <height>10</height>
+                            <x>0</x>
+                            <y>101</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Hotspot</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <FontSize>0</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                            <DataType>INT</DataType>
+                            <Optional>false</Optional>
+                            <Visible>true</Visible>
+                            <Input>true</Input>
+                            <Output>false</Output>
+                            <Instance>false</Instance>
+                            <MinVal>0</MinVal>
+                            <MaxVal>0</MaxVal>
+                            <Decimals>0</Decimals>
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Text_MiddayHours">
+                            <Name>Text_MiddayHours</Name>
+                            <width>154</width>
+                            <height>12</height>
+                            <x>12</x>
+                            <y>52</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>1</ResizeMode>
+                            <ItemType>Text</ItemType>
+                            <LineThickness>0</LineThickness>
+                            <fill_color>0</fill_color>
+                            <border_color>-16777216</border_color>
+                            <Text>MiddayHours</Text>
+                            <FontName>Verdana</FontName>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>6</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Image_MiddayHours">
+                            <Name>Image_MiddayHours</Name>
+                            <width>11</width>
+                            <height>11</height>
+                            <x>167</x>
+                            <y>53</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Image</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <BackgroundImage>$(SysPath)\Images\imgGraphHS.png</BackgroundImage>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem xsi:type="Hotspot" DebugStr="MiddayHours">
+                            <Name>MiddayHours</Name>
+                            <width>10</width>
+                            <height>10</height>
+                            <x>167</x>
+                            <y>53</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Hotspot</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <FontSize>0</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                            <DataType>INT</DataType>
+                            <Optional>false</Optional>
+                            <Visible>true</Visible>
+                            <Input>false</Input>
+                            <Output>true</Output>
+                            <Instance>false</Instance>
+                            <MinVal>0</MinVal>
+                            <MaxVal>0</MaxVal>
+                            <Decimals>0</Decimals>
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Text_MiddayMins">
+                            <Name>Text_MiddayMins</Name>
+                            <width>154</width>
+                            <height>12</height>
+                            <x>12</x>
+                            <y>68</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>1</ResizeMode>
+                            <ItemType>Text</ItemType>
+                            <LineThickness>0</LineThickness>
+                            <fill_color>0</fill_color>
+                            <border_color>-16777216</border_color>
+                            <Text>MiddayMins</Text>
+                            <FontName>Verdana</FontName>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>6</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Image_MiddayMins">
+                            <Name>Image_MiddayMins</Name>
+                            <width>11</width>
+                            <height>11</height>
+                            <x>167</x>
+                            <y>69</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Image</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <BackgroundImage>$(SysPath)\Images\imgGraphHS.png</BackgroundImage>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem xsi:type="Hotspot" DebugStr="MiddayMins">
+                            <Name>MiddayMins</Name>
+                            <width>10</width>
+                            <height>10</height>
+                            <x>167</x>
+                            <y>69</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Hotspot</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <FontSize>0</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                            <DataType>INT</DataType>
+                            <Optional>false</Optional>
+                            <Visible>true</Visible>
+                            <Input>false</Input>
+                            <Output>true</Output>
+                            <Instance>false</Instance>
+                            <MinVal>0</MinVal>
+                            <MaxVal>0</MaxVal>
+                            <Decimals>0</Decimals>
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Text_SunRiseHours">
+                            <Name>Text_SunRiseHours</Name>
+                            <width>154</width>
+                            <height>12</height>
+                            <x>12</x>
+                            <y>84</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>1</ResizeMode>
+                            <ItemType>Text</ItemType>
+                            <LineThickness>0</LineThickness>
+                            <fill_color>0</fill_color>
+                            <border_color>-16777216</border_color>
+                            <Text>SunRiseHours</Text>
+                            <FontName>Verdana</FontName>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>6</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Image_SunRiseHours">
+                            <Name>Image_SunRiseHours</Name>
+                            <width>11</width>
+                            <height>11</height>
+                            <x>167</x>
+                            <y>85</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Image</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <BackgroundImage>$(SysPath)\Images\imgGraphHS.png</BackgroundImage>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem xsi:type="Hotspot" DebugStr="SunRiseHours">
+                            <Name>SunRiseHours</Name>
+                            <width>10</width>
+                            <height>10</height>
+                            <x>167</x>
+                            <y>85</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Hotspot</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <FontSize>0</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                            <DataType>INT</DataType>
+                            <Optional>false</Optional>
+                            <Visible>true</Visible>
+                            <Input>false</Input>
+                            <Output>true</Output>
+                            <Instance>false</Instance>
+                            <MinVal>0</MinVal>
+                            <MaxVal>0</MaxVal>
+                            <Decimals>0</Decimals>
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Text_TestIn">
+                            <Name>Text_TestIn</Name>
+                            <width>154</width>
+                            <height>12</height>
+                            <x>12</x>
+                            <y>116</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>1</ResizeMode>
+                            <ItemType>Text</ItemType>
+                            <LineThickness>0</LineThickness>
+                            <fill_color>0</fill_color>
+                            <border_color>-16777216</border_color>
+                            <Text>TestIn</Text>
+                            <FontName>Verdana</FontName>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Image_TestIn">
+                            <Name>Image_TestIn</Name>
+                            <width>11</width>
+                            <height>11</height>
+                            <x>0</x>
+                            <y>117</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Image</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <BackgroundImage>$(SysPath)\Images\imgGraphHS.png</BackgroundImage>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem xsi:type="Hotspot" DebugStr="TestIn">
+                            <Name>TestIn</Name>
+                            <width>10</width>
+                            <height>10</height>
+                            <x>0</x>
+                            <y>117</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Hotspot</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <FontSize>0</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <DataType>INT</DataType>
+                            <Optional>false</Optional>
+                            <Visible>true</Visible>
+                            <Input>true</Input>
+                            <Output>false</Output>
+                            <Instance>false</Instance>
+                            <MinVal>0</MinVal>
+                            <MaxVal>0</MaxVal>
+                            <Decimals>0</Decimals>
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Text_SunRiseMins">
+                            <Name>Text_SunRiseMins</Name>
+                            <width>154</width>
+                            <height>12</height>
+                            <x>12</x>
+                            <y>100</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>1</ResizeMode>
+                            <ItemType>Text</ItemType>
+                            <LineThickness>0</LineThickness>
+                            <fill_color>0</fill_color>
+                            <border_color>-16777216</border_color>
+                            <Text>SunRiseMins</Text>
+                            <FontName>Verdana</FontName>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>6</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Image_SunRiseMins">
+                            <Name>Image_SunRiseMins</Name>
+                            <width>11</width>
+                            <height>11</height>
+                            <x>167</x>
+                            <y>101</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Image</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <BackgroundImage>$(SysPath)\Images\imgGraphHS.png</BackgroundImage>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem xsi:type="Hotspot" DebugStr="SunRiseMins">
+                            <Name>SunRiseMins</Name>
+                            <width>10</width>
+                            <height>10</height>
+                            <x>167</x>
+                            <y>101</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Hotspot</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <FontSize>0</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                            <DataType>INT</DataType>
+                            <Optional>false</Optional>
+                            <Visible>true</Visible>
+                            <Input>false</Input>
+                            <Output>true</Output>
+                            <Instance>false</Instance>
+                            <MinVal>0</MinVal>
+                            <MaxVal>0</MaxVal>
+                            <Decimals>0</Decimals>
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Text_SunSetHours">
+                            <Name>Text_SunSetHours</Name>
+                            <width>154</width>
+                            <height>12</height>
+                            <x>12</x>
+                            <y>116</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>1</ResizeMode>
+                            <ItemType>Text</ItemType>
+                            <LineThickness>0</LineThickness>
+                            <fill_color>0</fill_color>
+                            <border_color>-16777216</border_color>
+                            <Text>SunSetHours</Text>
+                            <FontName>Verdana</FontName>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>6</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Image_SunSetHours">
+                            <Name>Image_SunSetHours</Name>
+                            <width>11</width>
+                            <height>11</height>
+                            <x>167</x>
+                            <y>117</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Image</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <BackgroundImage>$(SysPath)\Images\imgGraphHS.png</BackgroundImage>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem xsi:type="Hotspot" DebugStr="SunSetHours">
+                            <Name>SunSetHours</Name>
+                            <width>10</width>
+                            <height>10</height>
+                            <x>167</x>
+                            <y>117</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Hotspot</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <FontSize>0</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                            <DataType>INT</DataType>
+                            <Optional>false</Optional>
+                            <Visible>true</Visible>
+                            <Input>false</Input>
+                            <Output>true</Output>
+                            <Instance>false</Instance>
+                            <MinVal>0</MinVal>
+                            <MaxVal>0</MaxVal>
+                            <Decimals>0</Decimals>
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Text_SunSetMins">
+                            <Name>Text_SunSetMins</Name>
+                            <width>154</width>
+                            <height>12</height>
+                            <x>12</x>
+                            <y>132</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>1</ResizeMode>
+                            <ItemType>Text</ItemType>
+                            <LineThickness>0</LineThickness>
+                            <fill_color>0</fill_color>
+                            <border_color>-16777216</border_color>
+                            <Text>SunSetMins</Text>
+                            <FontName>Verdana</FontName>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>6</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem DebugStr="Image_SunSetMins">
+                            <Name>Image_SunSetMins</Name>
+                            <width>11</width>
+                            <height>11</height>
+                            <x>167</x>
+                            <y>133</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Image</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <BackgroundImage>$(SysPath)\Images\imgGraphHS.png</BackgroundImage>
+                            <FontSize>8</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                        </GraphicItem>
+                        <GraphicItem xsi:type="Hotspot" DebugStr="SunSetMins">
+                            <Name>SunSetMins</Name>
+                            <width>10</width>
+                            <height>10</height>
+                            <x>167</x>
+                            <y>133</y>
+                            <Rotation>0</Rotation>
+                            <ResizeMode>0</ResizeMode>
+                            <ItemType>Hotspot</ItemType>
+                            <LineThickness>1</LineThickness>
+                            <fill_color>-65536</fill_color>
+                            <border_color>-16777216</border_color>
+                            <FontSize>0</FontSize>
+                            <FontBold>false</FontBold>
+                            <TextAlignment>0</TextAlignment>
+                            <SubGraphic />
+                            <HotspotsInstance />
+                            <DataType>INT</DataType>
+                            <Optional>false</Optional>
+                            <Visible>true</Visible>
+                            <Input>false</Input>
+                            <Output>true</Output>
+                            <Instance>false</Instance>
+                            <MinVal>0</MinVal>
+                            <MaxVal>0</MaxVal>
+                            <Decimals>0</Decimals>
+                        </GraphicItem>
+                    </SubGraphic>
+                    <HotspotsInstance />
+                    <InnerLogic DebugStr="SunsetSunrise">
+                        <Name>SunsetSunrise</Name>
+                        <width>1000</width>
+                        <height>1000</height>
+                        <x>0</x>
+                        <y>0</y>
+                        <Rotation>0</Rotation>
+                        <ResizeMode>0</ResizeMode>
+                        <ItemType />
+                        <LineThickness>0</LineThickness>
+                        <fill_color>-1</fill_color>
+                        <border_color>-16777216</border_color>
+                        <FontSize>8</FontSize>
+                        <FontBold>false</FontBold>
+                        <TextAlignment>0</TextAlignment>
+                        <SubGraphic>
+                            <GraphicItem xsi:type="Hotspot" DebugStr="Latitude">
+                                <Name>Latitude</Name>
+                                <width>10</width>
+                                <height>10</height>
+                                <x>248</x>
+                                <y>88</y>
+                                <Rotation>0</Rotation>
+                                <ResizeMode>0</ResizeMode>
+                                <ItemType>Hotspot</ItemType>
+                                <LineThickness>1</LineThickness>
+                                <fill_color>-65536</fill_color>
+                                <border_color>-16777216</border_color>
+                                <FontSize>0</FontSize>
+                                <FontBold>false</FontBold>
+                                <TextAlignment>0</TextAlignment>
+                                <SubGraphic />
+                                <HotspotsInstance />
+                                <DataType>DINT</DataType>
+                                <Optional>false</Optional>
+                                <Visible>true</Visible>
+                                <Input>true</Input>
+                                <Output>false</Output>
+                                <Instance>false</Instance>
+                                <MinVal>0</MinVal>
+                                <MaxVal>0</MaxVal>
+                                <Decimals>0</Decimals>
+                            </GraphicItem>
+                            <GraphicItem xsi:type="Hotspot" DebugStr="Longtitude">
+                                <Name>Longtitude</Name>
+                                <width>10</width>
+                                <height>10</height>
+                                <x>248</x>
+                                <y>128</y>
+                                <Rotation>0</Rotation>
+                                <ResizeMode>0</ResizeMode>
+                                <ItemType>Hotspot</ItemType>
+                                <LineThickness>1</LineThickness>
+                                <fill_color>-65536</fill_color>
+                                <border_color>-16777216</border_color>
+                                <FontSize>0</FontSize>
+                                <FontBold>false</FontBold>
+                                <TextAlignment>0</TextAlignment>
+                                <SubGraphic />
+                                <HotspotsInstance />
+                                <DataType>DINT</DataType>
+                                <Optional>false</Optional>
+                                <Visible>true</Visible>
+                                <Input>true</Input>
+                                <Output>false</Output>
+                                <Instance>false</Instance>
+                                <MinVal>0</MinVal>
+                                <MaxVal>0</MaxVal>
+                                <Decimals>0</Decimals>
+                            </GraphicItem>
+                            <GraphicItem xsi:type="Hotspot" DebugStr="DayOfYear">
+                                <Name>DayOfYear</Name>
+                                <width>10</width>
+                                <height>10</height>
+                                <x>248</x>
+                                <y>160</y>
+                                <Rotation>0</Rotation>
+                                <ResizeMode>0</ResizeMode>
+                                <ItemType>Hotspot</ItemType>
+                                <LineThickness>1</LineThickness>
+                                <fill_color>-65536</fill_color>
+                                <border_color>-16777216</border_color>
+                                <FontSize>0</FontSize>
+                                <FontBold>false</FontBold>
+                                <TextAlignment>0</TextAlignment>
+                                <SubGraphic />
+                                <HotspotsInstance />
+                                <DataType>INT</DataType>
+                                <Optional>false</Optional>
+                                <Visible>true</Visible>
+                                <Input>true</Input>
+                                <Output>false</Output>
+                                <Instance>false</Instance>
+                                <MinVal>0</MinVal>
+                                <MaxVal>0</MaxVal>
+                                <Decimals>0</Decimals>
+                            </GraphicItem>
+                            <GraphicItem xsi:type="Hotspot" DebugStr="MiddayHours">
+                                <Name>MiddayHours</Name>
+                                <width>10</width>
+                                <height>10</height>
+                                <x>592</x>
+                                <y>160</y>
+                                <Rotation>0</Rotation>
+                                <ResizeMode>0</ResizeMode>
+                                <ItemType>Hotspot</ItemType>
+                                <LineThickness>1</LineThickness>
+                                <fill_color>-65536</fill_color>
+                                <border_color>-16777216</border_color>
+                                <FontSize>0</FontSize>
+                                <FontBold>false</FontBold>
+                                <TextAlignment>0</TextAlignment>
+                                <SubGraphic />
+                                <HotspotsInstance />
+                                <DataType>INT</DataType>
+                                <Optional>false</Optional>
+                                <Visible>true</Visible>
+                                <Input>false</Input>
+                                <Output>true</Output>
+                                <Instance>false</Instance>
+                                <MinVal>0</MinVal>
+                                <MaxVal>0</MaxVal>
+                                <Decimals>0</Decimals>
+                            </GraphicItem>
+                            <GraphicItem xsi:type="Hotspot" DebugStr="MiddayMins">
+                                <Name>MiddayMins</Name>
+                                <width>10</width>
+                                <height>10</height>
+                                <x>592</x>
+                                <y>208</y>
+                                <Rotation>0</Rotation>
+                                <ResizeMode>0</ResizeMode>
+                                <ItemType>Hotspot</ItemType>
+                                <LineThickness>1</LineThickness>
+                                <fill_color>-65536</fill_color>
+                                <border_color>-16777216</border_color>
+                                <FontSize>0</FontSize>
+                                <FontBold>false</FontBold>
+                                <TextAlignment>0</TextAlignment>
+                                <SubGraphic />
+                                <HotspotsInstance />
+                                <DataType>INT</DataType>
+                                <Optional>false</Optional>
+                                <Visible>true</Visible>
+                                <Input>false</Input>
+                                <Output>true</Output>
+                                <Instance>false</Instance>
+                                <MinVal>0</MinVal>
+                                <MaxVal>0</MaxVal>
+                                <Decimals>0</Decimals>
+                            </GraphicItem>
+                            <GraphicItem xsi:type="Hotspot" DebugStr="Test">
+                                <Name>Test</Name>
+                                <width>10</width>
+                                <height>10</height>
+                                <x>608</x>
+                                <y>64</y>
+                                <Rotation>0</Rotation>
+                                <ResizeMode>0</ResizeMode>
+                                <ItemType>Hotspot</ItemType>
+                                <LineThickness>1</LineThickness>
+                                <fill_color>-65536</fill_color>
+                                <border_color>-16777216</border_color>
+                                <FontSize>0</FontSize>
+                                <FontBold>false</FontBold>
+                                <TextAlignment>0</TextAlignment>
+                                <SubGraphic />
+                                <HotspotsInstance />
+                                <DataType>DINT</DataType>
+                                <Optional>false</Optional>
+                                <Visible>true</Visible>
+                                <Input>false</Input>
+                                <Output>true</Output>
+                                <Instance>false</Instance>
+                                <MinVal>0</MinVal>
+                                <MaxVal>0</MaxVal>
+                                <Decimals>0</Decimals>
+                            </GraphicItem>
+                            <GraphicItem xsi:type="Hotspot" DebugStr="SunRiseHours">
+                                <Name>SunRiseHours</Name>
+                                <width>10</width>
+                                <height>10</height>
+                                <x>584</x>
+                                <y>248</y>
+                                <Rotation>0</Rotation>
+                                <ResizeMode>0</ResizeMode>
+                                <ItemType>Hotspot</ItemType>
+                                <LineThickness>1</LineThickness>
+                                <fill_color>-65536</fill_color>
+                                <border_color>-16777216</border_color>
+                                <FontSize>0</FontSize>
+                                <FontBold>false</FontBold>
+                                <TextAlignment>0</TextAlignment>
+                                <SubGraphic />
+                                <HotspotsInstance />
+                                <DataType>INT</DataType>
+                                <Optional>false</Optional>
+                                <Visible>true</Visible>
+                                <Input>false</Input>
+                                <Output>true</Output>
+                                <Instance>false</Instance>
+                                <MinVal>0</MinVal>
+                                <MaxVal>0</MaxVal>
+                                <Decimals>0</Decimals>
+                            </GraphicItem>
+                            <GraphicItem xsi:type="Hotspot" DebugStr="SunRiseMins">
+                                <Name>SunRiseMins</Name>
+                                <width>10</width>
+                                <height>10</height>
+                                <x>584</x>
+                                <y>280</y>
+                                <Rotation>0</Rotation>
+                                <ResizeMode>0</ResizeMode>
+                                <ItemType>Hotspot</ItemType>
+                                <LineThickness>1</LineThickness>
+                                <fill_color>-65536</fill_color>
+                                <border_color>-16777216</border_color>
+                                <FontSize>0</FontSize>
+                                <FontBold>false</FontBold>
+                                <TextAlignment>0</TextAlignment>
+                                <SubGraphic />
+                                <HotspotsInstance />
+                                <DataType>INT</DataType>
+                                <Optional>false</Optional>
+                                <Visible>true</Visible>
+                                <Input>false</Input>
+                                <Output>true</Output>
+                                <Instance>false</Instance>
+                                <MinVal>0</MinVal>
+                                <MaxVal>0</MaxVal>
+                                <Decimals>0</Decimals>
+                            </GraphicItem>
+                            <GraphicItem xsi:type="Hotspot" DebugStr="SunSetHours">
+                                <Name>SunSetHours</Name>
+                                <width>10</width>
+                                <height>10</height>
+                                <x>584</x>
+                                <y>320</y>
+                                <Rotation>0</Rotation>
+                                <ResizeMode>0</ResizeMode>
+                                <ItemType>Hotspot</ItemType>
+                                <LineThickness>1</LineThickness>
+                                <fill_color>-65536</fill_color>
+                                <border_color>-16777216</border_color>
+                                <FontSize>0</FontSize>
+                                <FontBold>false</FontBold>
+                                <TextAlignment>0</TextAlignment>
+                                <SubGraphic />
+                                <HotspotsInstance />
+                                <DataType>INT</DataType>
+                                <Optional>false</Optional>
+                                <Visible>true</Visible>
+                                <Input>false</Input>
+                                <Output>true</Output>
+                                <Instance>false</Instance>
+                                <MinVal>0</MinVal>
+                                <MaxVal>0</MaxVal>
+                                <Decimals>0</Decimals>
+                            </GraphicItem>
+                            <GraphicItem xsi:type="Hotspot" DebugStr="SunSetMins">
+                                <Name>SunSetMins</Name>
+                                <width>10</width>
+                                <height>10</height>
+                                <x>584</x>
+                                <y>352</y>
+                                <Rotation>0</Rotation>
+                                <ResizeMode>0</ResizeMode>
+                                <ItemType>Hotspot</ItemType>
+                                <LineThickness>1</LineThickness>
+                                <fill_color>-65536</fill_color>
+                                <border_color>-16777216</border_color>
+                                <FontSize>0</FontSize>
+                                <FontBold>false</FontBold>
+                                <TextAlignment>0</TextAlignment>
+                                <SubGraphic />
+                                <HotspotsInstance />
+                                <DataType>INT</DataType>
+                                <Optional>false</Optional>
+                                <Visible>true</Visible>
+                                <Input>false</Input>
+                                <Output>true</Output>
+                                <Instance>false</Instance>
+                                <MinVal>0</MinVal>
+                                <MaxVal>0</MaxVal>
+                                <Decimals>0</Decimals>
+                            </GraphicItem>
+                            <GraphicItem xsi:type="Hotspot" DebugStr="Timezone">
+                                <Name>Timezone</Name>
+                                <width>10</width>
+                                <height>10</height>
+                                <x>248</x>
+                                <y>40</y>
+                                <Rotation>0</Rotation>
+                                <ResizeMode>0</ResizeMode>
+                                <ItemType>Hotspot</ItemType>
+                                <LineThickness>1</LineThickness>
+                                <fill_color>-65536</fill_color>
+                                <border_color>-16777216</border_color>
+                                <FontSize>0</FontSize>
+                                <FontBold>false</FontBold>
+                                <TextAlignment>0</TextAlignment>
+                                <SubGraphic />
+                                <HotspotsInstance />
+                                <DataType>INT</DataType>
+                                <Optional>false</Optional>
+                                <Visible>true</Visible>
+                                <Input>true</Input>
+                                <Output>false</Output>
+                                <Instance>false</Instance>
+                                <MinVal>-11</MinVal>
+                                <MaxVal>14</MaxVal>
+                                <Unit>Hours</Unit>
+                                <Decimals>0</Decimals>
+                            </GraphicItem>
+                            <GraphicItem xsi:type="Hotspot" DebugStr="TestIn">
+                                <Name>TestIn</Name>
+                                <width>10</width>
+                                <height>10</height>
+                                <x>240</x>
+                                <y>248</y>
+                                <Rotation>0</Rotation>
+                                <ResizeMode>0</ResizeMode>
+                                <ItemType>Hotspot</ItemType>
+                                <LineThickness>1</LineThickness>
+                                <fill_color>-65536</fill_color>
+                                <border_color>-16777216</border_color>
+                                <FontSize>0</FontSize>
+                                <FontBold>false</FontBold>
+                                <TextAlignment>0</TextAlignment>
+                                <SubGraphic />
+                                <DataType>INT</DataType>
+                                <Optional>false</Optional>
+                                <Visible>true</Visible>
+                                <Input>true</Input>
+                                <Output>false</Output>
+                                <Instance>false</Instance>
+                                <MinVal>0</MinVal>
+                                <MaxVal>0</MaxVal>
+                                <Decimals>0</Decimals>
+                            </GraphicItem>
+                        </SubGraphic>
+                        <HotspotsInstance />
+                    </InnerLogic>
+                    <Appearance>1</Appearance>
+                    <AutoShapeImage />
+                    <MacroList />
+                </GraphicItem>
+            </SubGraphic>
+            <HotspotsInstance />
+        </GraphicItem>
+        <GraphicItem DebugStr="System">
+            <Name>System</Name>
+            <width>3508</width>
+            <height>2480</height>
+            <x>0</x>
+            <y>0</y>
+            <Rotation>0</Rotation>
+            <ResizeMode>0</ResizeMode>
+            <ItemType />
+            <LineThickness>0</LineThickness>
+            <fill_color>-1</fill_color>
+            <border_color>-16777216</border_color>
+            <FontSize>8</FontSize>
+            <FontBold>false</FontBold>
+            <TextAlignment>0</TextAlignment>
+            <SubGraphic />
+            <HotspotsInstance />
+        </GraphicItem>
+        <GraphicItem DebugStr="Wire">
+            <Name>Wire</Name>
+            <width>3508</width>
+            <height>2480</height>
+            <x>0</x>
+            <y>0</y>
+            <Rotation>0</Rotation>
+            <ResizeMode>0</ResizeMode>
+            <ItemType />
+            <LineThickness>0</LineThickness>
+            <fill_color>-1</fill_color>
+            <border_color>-16777216</border_color>
+            <FontSize>8</FontSize>
+            <FontBold>false</FontBold>
+            <TextAlignment>0</TextAlignment>
+            <SubGraphic />
+            <HotspotsInstance />
+        </GraphicItem>
+        <GraphicItem DebugStr="UI">
+            <Name>UI</Name>
+            <width>3508</width>
+            <height>2480</height>
+            <x>0</x>
+            <y>0</y>
+            <Rotation>0</Rotation>
+            <ResizeMode>0</ResizeMode>
+            <ItemType />
+            <LineThickness>0</LineThickness>
+            <fill_color>-1</fill_color>
+            <border_color>-16777216</border_color>
+            <FontSize>8</FontSize>
+            <FontBold>false</FontBold>
+            <TextAlignment>0</TextAlignment>
+            <SubGraphic />
+            <HotspotsInstance />
+        </GraphicItem>
+    </Views>
+    <ProjectLibraries />
+</MCXBlocksProject>
